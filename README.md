@@ -2,6 +2,7 @@
 
 ## Summary of Project
 Presents a cohesive, three- to four-sentence summary of the project that could be used on a LinkedIn profile, in an interview or cover letter, or as an elevator pitch, including all of the following: ✓ Topic addressed ✓ Machine module used ✓ Results of the analysis
+
 Our project sought to determine the effect of macroeconomic factors on stock exchange index closing prices. The question we asked is could we determine the stock price of any particular time based on the relationship of inflation, GDP, and working population? We utilized a supervised machine learning model that performed multivariate linear regression
 
 ## Self Assessment
