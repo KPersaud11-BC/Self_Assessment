@@ -8,7 +8,17 @@ Our project sought to determine the effect of macroeconomic factors on stock exc
 <img width="538" src="https://user-images.githubusercontent.com/84286467/141700316-bb203acb-6b6e-44da-abfb-41f27419c3c8.png"/>
 
 ## Self Assessment
-Presents a cohesive written analysis that describes the role(s) they played over the course of the project and their contribution to the project in that role. Presents a cohesive written summary of how they contributed to each of the roles they did not take on via team discussions, peer reviews, or other means. Additionally, the analysis should describe their greatest personal challenge over the course of the project, and how they overcame that challenge.
+Presents a cohesive written analysis that describes the role(s) they played over the course of the project and their contribution to the project in that role. 
+
+For this project, I assumed the role that worked on the machine learning model. I thoroughly enjoyed this lesson during the course and wanted to do more work with the topic. In this project, I identified the type of model that would be used, built the necessary code in a Google Colab notebook, tested and trained the datasets, and determined its accuracy in solving the question the group posed. As previously mentioned, the model was able to achieve a 94.57% accuracy, which exceeded our initial goal of 75% accuracy.
+
+
+Presents a cohesive written summary of how they contributed to each of the roles they did not take on via team discussions, peer reviews, or other means. 
+
+While
+
+Additionally, the analysis should describe their greatest personal challenge over the course of the project, and how they overcame that challenge.
+
 
 ## Team Assessment 
 Presents a cohesive written analysis that describes their teamwork, including all of the following: ✓ Their communication protocol, including any challenges, how they were resolved, and what they would do differently next time ✓ Their strengths as a team, including tips and tricks they would want to share with a new cohort kicking off the project
