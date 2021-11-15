@@ -19,6 +19,11 @@ While my main focus was the machine learning model, I was very participatory in 
 
 Additionally, the analysis should describe their greatest personal challenge over the course of the project, and how they overcame that challenge.
 
+The greatest personal challenge that I had to overcome during the project was the forethought and planning that had to go into the Machine Learning Model. I had to critically think about the target and feature sets, how the model would answer the question, and if the data we found served as adequate inputs. I was able to overcome it through time management and breaking up the deliverables into small tasks to accomplish. My personal success was also facilitated by the team structure, which I will discuss in the next section.
 
 ## Team Assessment 
-Presents a cohesive written analysis that describes their teamwork, including all of the following: ✓ Their communication protocol, including any challenges, how they were resolved, and what they would do differently next time ✓ Their strengths as a team, including tips and tricks they would want to share with a new cohort kicking off the project
+Presents a cohesive written analysis that describes their teamwork, including all of the following: 
+
+✓ Their communication protocol, including any challenges, how they were resolved, and what they would do differently next time 
+
+✓ Their strengths as a team, including tips and tricks they would want to share with a new cohort kicking off the project
