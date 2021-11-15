@@ -15,7 +15,7 @@ For this project, I assumed the role that worked on the machine learning model. 
 
 Presents a cohesive written summary of how they contributed to each of the roles they did not take on via team discussions, peer reviews, or other means. 
 
-While
+While my main focus was the machine learning model, I was very participatory in the other roles. In the beginning stages, I provided sources for possible datasets that the group could analyze, and that the Database team could process. Throughout the project, I was available to answer questions via Slack, and reviewed the GitHub to clear any discrepancies and issues with merging the branches with the main. After determining the equation used to calculate predicted closing prices, I worked with the Visualization team to graph the historical data vs the predicted data, which they then depicted in Tableau.
 
 Additionally, the analysis should describe their greatest personal challenge over the course of the project, and how they overcame that challenge.
 
